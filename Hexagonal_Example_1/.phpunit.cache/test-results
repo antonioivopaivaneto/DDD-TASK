@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TaskTest::testCmpletedTask":5,"TaskTest::testCompletedTask":5,"Tests\\Domain\\TaskTest::testCompletedTask":5},"times":{"TaskTest::testCmpletedTask":0.006,"TaskTest::testCompletedTask":0.007,"Tests\\Domain\\TaskTest::testCompletedTask":0.006}}

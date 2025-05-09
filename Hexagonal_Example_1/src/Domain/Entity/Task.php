@@ -6,8 +6,8 @@ class Task
 {
     public function __construct(
         public readonly int $id,
-        public readonly string $title,
-        public readonly bool $completed = true,
+        public string $title,
+        public bool $completed = false,
     ) { }
 
     public function complete():void

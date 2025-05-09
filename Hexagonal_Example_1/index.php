@@ -9,4 +9,7 @@ $repository = new InMemoryTaskRepository();
 $service = new TaskService($repository);
 $controller = new CliTasksController($service);
 
-$controller->handle();
+var_dump($controller->handle()
+);
+
+
